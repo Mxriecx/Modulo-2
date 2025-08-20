@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "Camila Paz",
+    "age": 25,
+    "address": {
+        "city": "Bogota",
+        "country": "Colombia"
+    },
+    "hobbies" : ["patinar","leer","cocinar"],
+    "esCasada": false  
+    
+}
